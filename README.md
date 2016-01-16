@@ -15,4 +15,5 @@ title: <Title of the blog post>
 ```
 This tells Jekyll that this is a blog post and it's title is <Title of the blog post>.
 3. Write some blog contents. This can be anything and include Markdown.
+
 4. Push the file. If the instructions were followed correctly, you should be able to refresh the page after around ten seconds and your post should appear.
