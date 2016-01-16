@@ -12,9 +12,10 @@ You must have push access. All blog posts are written in Markdown. To write a bl
 ---
 layout: post
 title: <Title of the blog post>
+author: <Author>
 ---
 ```
-This tells Jekyll that this is a blog post and it's title is what you wrote after ```title: ```.
+This tells Jekyll that this is a blog post and it's title is what you wrote after ```title: ``` and the author is what you wrote after ```author: ```.
 
 3: Write some blog contents. This can be anything and include Markdown.
 
