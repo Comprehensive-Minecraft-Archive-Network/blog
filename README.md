@@ -5,7 +5,7 @@ The Blog for all things CMAN.
 
 You must have push access. All blog posts are written in Markdown. To write a blog post, use the following instructions.
 
-1: Create a file in the _posts folder. The filename MUST be using the format "YYYY-MM-DD-CAPTION.md" (CAPTION should use hyphons (-) instead of a space)
+1: Create a file in the _posts folder. The filename MUST be using the format "YYYY-MM-DD-POST-SLUG.md" (POST-SLUG should use hyphons (-) instead of a space)
 
 2: Write the following Markdown into the file:
 ```markdown
