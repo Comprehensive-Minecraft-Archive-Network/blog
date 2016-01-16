@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: We're open!
 post_author: LewisTehMinerz, CMAN Developer
 ---
