@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: The CMAN Developers Blog
+name: The DeltaMC Developers Blog
 
 # Short bio or description (displayed in the header)
-description: The blog for all things CMAN.
+description: The blog for all things DeltaMC.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://avatars0.githubusercontent.com/u/15340266?v=4&s=200
 #
 # Flags below are optional
 #
@@ -21,7 +20,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: Comprehensive-Minecraft-Archive-Network/
+  github: deltamc-project/
   instagram:
   linkedin:
   pinterest:
